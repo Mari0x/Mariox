@@ -1,3 +1,45 @@
-# PHPost 1.4.0 Beta
+# <img src="https://cdn-icons-png.flaticon.com/512/4483/4483599.png" width="80"/>
+### 💼 Projectos
 
-Sistema comunitario desarrollado para crear sitios webs donde los usuarios pueden publicar su propio contenido e interactuar con ellos.
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Licence</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+		  <td>
+        <a href="https://github.com/PHPostReboot/PHPost">
+          <b>PHPost</b>
+        </a>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="License" src="https://img.shields.io/github/license/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+	    <td><a href="https://github.com/Mari0x/Pro-alarmas">
+		     <b>Pro Alarmas</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mari0x/Pro-alarmas?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mari0x/Pro-alarmas?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Mari0x/Pro-alarmas?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="License" src="https://img.shields.io/github/license/Mari0x/Pro-alarmas?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
+	  
+  </tbody>
+</table>
+
+### 💊 Lenguajes
+
+<p>
+   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+     <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue??style=flat-square&logo=css3&logoColor=white" />
+       <img alt="java" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=java&logoColor=white" /> 
+</p>
