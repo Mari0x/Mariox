@@ -14,14 +14,14 @@
   <tbody>
     <tr>
 		  <td>
-        <a href="https://github.com/PHPostReboot/PHPost">
+        <a href="https://github.com/Mari0x/PHPost">
           <b>PHPost</b>
         </a>
       </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="License" src="https://img.shields.io/github/license/PHPostReboot/PHPost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mari0x/PHPost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mari0x/PHPost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Mari0x/PHPost?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="License" src="https://img.shields.io/github/license/Mari0x/PHPost?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
 	    <td><a href="https://github.com/Mari0x/Pro-alarmas">
